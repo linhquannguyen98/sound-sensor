@@ -1,2 +1,1 @@
-# sound-sensor
- A simple program for receiving data from the sound sensor
+#This is the "Sound Sensor" project.
